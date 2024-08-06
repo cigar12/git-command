@@ -1,0 +1,24 @@
+git -v
+git config --gobal user.name ("")
+git config --gobal user.email("")
+ls 
+pwd
+git status
+mkdir
+git add .
+code .
+git log
+git remote add origin link of repository
+git remote -v
+git push -u origin master/main
+                                                                    
+
+
+git pull
+git branch 
+git branch --all
+git branch newnameofbranch(create branch but not switch)
+or
+git checkout -b newbranchname(if we create branch using it it create and switch it to new branch )
+git checkout yourbranch name(to check the branch to which branch is you on)
+git branch --delete nameofbranch (remove the branch)
