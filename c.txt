@@ -6,6 +6,8 @@ pwd
 git status
 mkdir
 git add .
+git commit -m "chekpoint"
+git branch -m main/master (from main to master and vice versa )
 code .
 git log
 git remote add origin link of repository
